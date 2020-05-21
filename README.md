@@ -66,3 +66,4 @@ i.e. 99%
 #### However later if percentage is less than 88, it is normalised
 
 - Supported by javascript
+thanks for visiting
